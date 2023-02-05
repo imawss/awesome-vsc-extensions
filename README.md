@@ -6,11 +6,7 @@
 
 | Extension | Decription |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)| You can use the local servers for development with this extension. |
-| 2   | [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)|
-| 3   | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)                                                        |
-| 4   | [What is JSON and its common operations](#what-is-json-and-its-common-operations)                                                                                 |
-| 5   | [What is the purpose of the array slice method](#what-is-the-purpose-of-the-array-slice-method)                                                                   |
-| 6   | [What is the purpose of the array splice method](#what-is-the-purpose-of-the-array-splice-method)                                                                 |
-| 7   | [What is the difference between slice and splice](#what-is-the-difference-between-slice-and-splice)                                                               |
-| 8   | [How do you compare Object and Map](#how-do-you-compare-object-and-map)                                                                                           |
+|[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)| You can use the local servers for development with this extension. |
+|[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)| Code formatter extension for vsc. |
+|[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)| An icon theme that beautifies file icons. |
+
