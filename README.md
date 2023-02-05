@@ -1,2 +1,3 @@
-# awesome-vsc-extensions
-Dozens of useful vscode plugins that I have used collected for you.
+# ✨awesome-vsc-extensions
+**_Welcome to repository! First of all if you think this repository is useful you can give a star._**
+>**NOTE: You can add other plugins you think should be here**
