@@ -4,11 +4,11 @@
 ---
 ### 🛠Extensions
 
-| No |Extension|
+| Extension | Decription |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [What are the possible ways to create objects in JavaScript](#what-are-the-possible-ways-to-create-objects-in-javascript)                                         |
-| 2   | [What is prototype chain](#what-is-a-prototype-chain)                                                                                                             |
-| 3   | [What is the difference between Call, Apply and Bind](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)| You can use the local servers for development with this extension. |
+| 2   | [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)|
+| 3   | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)                                                        |
 | 4   | [What is JSON and its common operations](#what-is-json-and-its-common-operations)                                                                                 |
 | 5   | [What is the purpose of the array slice method](#what-is-the-purpose-of-the-array-slice-method)                                                                   |
 | 6   | [What is the purpose of the array splice method](#what-is-the-purpose-of-the-array-splice-method)                                                                 |
