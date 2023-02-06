@@ -9,4 +9,5 @@
 |[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)| You can use the local servers for development with this extension. |
 |[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)| Code formatter extension for vsc. |
 |[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)| An icon theme that beautifies file icons. |
-
+|[Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)| This extension provides autocomplete suggestions with github ai extension. |
+|[Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)|IntelliCode is a tool that produces smart code completion recommendations.|
