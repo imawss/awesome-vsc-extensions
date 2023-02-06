@@ -15,3 +15,4 @@
 |[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)| Automatically rename paired HTML/XML tag. |
 |[MySQL](https://marketplace.visualstudio.com/items?itemName=formulahendry.vscode-mysql)| MySQL management extension for vsc. |
 |[Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)| Nice color themes for vsc. |
+|[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)| Nice color themes for vsc. |
